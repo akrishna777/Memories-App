@@ -1,6 +1,8 @@
 # Memories
 
-![Memories](https://ibb.co/pJZn2Bj)
+![Memories](https://i.ibb.co/2gP5q13/brave-5-Do6-RLl-XD8.png)
+
+## Note: This is not my original work. App is a duplication from some other source just for learning purposes.
 
 ## Introduction
 This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
