@@ -2,7 +2,7 @@
 
 ![Memories](https://i.ibb.co/Y8YWHWX/Memo2.png)
 
-##Note: This is not my original work. App is a duplication from some other source just for learning purposes.
+## Note: This is not my original work. App is a duplication from some other source just for learning purposes.
 
 ## Introduction
 This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
