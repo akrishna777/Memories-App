@@ -1,4 +1,4 @@
-# Memories
+# Memories - Added Authorization to Memories APP
 
 ![Memories](https://i.ibb.co/Y8YWHWX/Memo2.png)
 
